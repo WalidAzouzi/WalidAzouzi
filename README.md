@@ -14,6 +14,6 @@ I'm a solution architect, and full stack developer with 13 years professional ex
 
 <a href="https://github.com/walidazouzi">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=walidazouzi&theme=shades-of-purple&count_private=true" alt="walidazouzi's GitHub Stats"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidazouzi&theme=shades-of-purple&count_private=true&layout=compact" 
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidazouzi&theme=shades-of-purple&count_private=true&layout=compact" 
     alt="walidazouzi GitHub Top Languages" />
 </a>
