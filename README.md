@@ -1,6 +1,5 @@
 # Hey there! I'm [Walid](https://walidazouzi.dev) 👋
 ![walidazouzi](banner.jpg)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidazouzi&count_private=true&layout=compact)](https://github.com/walidazouzi/github-readme-stats)
 <p align="center">
     <a href="https://twitter.com/walidazouzi"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://linkedin.com/in/walidazouzi"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -18,5 +17,5 @@ I'm a solution architect, and full stack developer with 13 years professional ex
     alt="walidazouzi GitHub Top Languages" />
    
 </a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
