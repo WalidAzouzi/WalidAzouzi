@@ -8,7 +8,7 @@
     <a href="https://walidazouzi.dev"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a solution architect, mentor, and full stack developer with 13 years professional experience. Currently, I specialise in building enterprise applications using .NET, Angular, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a solution architect, and full stack developer with 13 years professional experience. Currently, I specialise in building enterprise applications using .NET, Angular, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 ## GitHub Stats
 
